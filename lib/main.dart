@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_assignment/widgets/new_transaction.dart';
-import 'package:flutter_assignment/widgets/transaction_list.dart';
 import 'package:flutter_assignment/widgets/user_transaction.dart';
-import 'package:intl/intl.dart';
 
 void main() {
   runApp(MyApp());
